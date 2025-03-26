@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NEWINGANDIMPROVINGBROS</string>
+    <string name="year">Year</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_poster" />
+    <string name="movie_search">Movie Search</string>
+    <string name="search_movies">Search movies...</string>
+    <string name="tap_to_view_details">Tap to view details</string>
+    <string name="studio_n_a">Studio: N/A</string>
+    <string name="rating_n_a">Rating: N/A</string>
+</resources>
